@@ -1,2 +1,4 @@
 // Add your functions and code here
-var destructivelyAppendKitten
+var destructivelyAppendKitten(name){
+  kittens.
+}
